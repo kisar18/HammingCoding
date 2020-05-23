@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\bin\Debug\netcoreapp3.1\TPI_projekt5.exe
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\bin\Debug\netcoreapp3.1\TPI_projekt5.deps.json
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\bin\Debug\netcoreapp3.1\TPI_projekt5.runtimeconfig.json
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\bin\Debug\netcoreapp3.1\TPI_projekt5.runtimeconfig.dev.json
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\bin\Debug\netcoreapp3.1\TPI_projekt5.dll
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\bin\Debug\netcoreapp3.1\TPI_projekt5.pdb
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\obj\Debug\netcoreapp3.1\TPI_projekt5.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\obj\Debug\netcoreapp3.1\TPI_projekt5.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\obj\Debug\netcoreapp3.1\TPI_projekt5.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\obj\Debug\netcoreapp3.1\TPI_projekt5.AssemblyInfo.cs
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\obj\Debug\netcoreapp3.1\TPI_projekt5.dll
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\obj\Debug\netcoreapp3.1\TPI_projekt5.pdb
+C:\Users\marti\source\repos\TPI_projekt5\TPI_projekt5\obj\Debug\netcoreapp3.1\TPI_projekt5.genruntimeconfig.cache
